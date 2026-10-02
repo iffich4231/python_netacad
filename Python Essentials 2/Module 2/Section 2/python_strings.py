@@ -157,5 +157,5 @@
     # print("abcabc".count("b"))  # 2
     # print('abcabc'.count("d"))  # 0
 
-for ch in "abc":
-    print(chr(ord(ch) + 1), end='')
+# for ch in "abc":
+#     print(chr(ord(ch) + 1), end='')
